@@ -21,3 +21,6 @@ Low : Lowest price on the given day
 Close : Closing price on the given day
 Volume : Volume of transactions on the given day
 Market Cap : Market capitalization in USD
+![Screenshot 2025-03-24 162306](https://github.com/user-attachments/assets/6903b4c6-6f35-4428-b898-d327316bae1a)
+![Screenshot 2025-03-24 162222](https://github.com/user-attachments/assets/eb5a4e84-3802-4c14-b220-dc4e1a2f42a9)
+![Screenshot 2025-03-24 161918](https://github.com/user-attachments/assets/7a6ef2e8-f464-4125-9cb4-e259681e55ff)
