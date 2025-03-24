@@ -1,4 +1,4 @@
-# Cryptocurrency_Analysis_PowerBI
+![image](https://github.com/user-attachments/assets/198c3871-6526-422c-8b36-545b39658db4)# Cryptocurrency_Analysis_PowerBI
 Complete End to End multipage Power Bi Dashboard.
 Transforming Crypto Data into Insights - "Cryptocurrency Forecasting Dashboard powered by Microsoft Power BI".
 
